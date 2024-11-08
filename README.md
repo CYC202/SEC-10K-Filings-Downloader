@@ -19,6 +19,6 @@ It can skip existing files.
 5. **Multithreading**: Optimize retrieval speed using concurrent processing.
 
 ### Note
-**The code is intended for personal use only and has been encrypted. If you have academic needs or wish to discuss further, feel free to reach out for collaboration and exchange of ideas.
-**
+**The code is intended for personal use only and has been encrypted. If you have academic needs or wish to discuss further, feel free to reach out for collaboration and exchange of ideas.**
+
 **Last Updated:** November 18, 2024
