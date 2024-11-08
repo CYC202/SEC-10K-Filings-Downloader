@@ -1,7 +1,4 @@
-# SEC-Downloader
-
-## Project Name
-SEC Filings Downloader
+# SEC-Filings-Downloader
 
 ## Description
 A tool to retrieve filings from the SEC based on a specified identifier (tikcer, cik), form (10k, 20f, etc.), year, amendment, etc. 
