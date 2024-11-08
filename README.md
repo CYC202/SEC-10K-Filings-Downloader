@@ -1,10 +1,18 @@
-# SEC-10K-Filings-Downloader
+# SEC-Downloader
 
 ## Project Name
-SEC 10-K Filings Downloader
+SEC Filings Downloader
 
 ## Description
-A tool to retrieve 10-K filings from the SEC based on a specified ticker and year. This project provides functionality for word frequency analysis from a given dictionary, including options for removing stop words and stemming. The implementation has been optimized with multithreading to enhance retrieval speed. The code is encrypted for personal use; please reach out for collaboration or academic inquiries.
+A tool to retrieve filings from the SEC based on a specified identifier (tikcer, cik), form (10k, 20f, etc.), year, amendment, etc. 
+
+I also provide basic functionality for word frequency analysis from a given dictionary, including options for removing stop words and stemming. 
+
+The implementation has been optimized with multithreading to enhance retrieval speed. 
+
+It can skip existing files.
+
+**The code is encrypted for personal use; please reach out for collaboration or academic inquiries.**
 
 ## SEC 10-K Filings Downloader
 ### Overview
